@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPagerIndicator</string>
+    <string name="appliction">应用</string>
+    <string name="remote">遥控</string>
+    <string name="transmitter">传输</string>
+    <string name="tool">工具</string>
+</resources>
